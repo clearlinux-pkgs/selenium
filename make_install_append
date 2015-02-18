@@ -1,0 +1,2 @@
+rm -f %{buildroot}%{python_sitelib}/selenium/webdriver/firefox/amd64/x_ignore_nofocus.so
+rm -f %{buildroot}%{python_sitelib}/selenium/webdriver/firefox/x86/x_ignore_nofocus.so
