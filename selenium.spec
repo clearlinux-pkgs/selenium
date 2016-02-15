@@ -4,7 +4,7 @@
 #
 Name     : selenium
 Version  : 2.48.0
-Release  : 18
+Release  : 19
 URL      : https://pypi.python.org/packages/source/s/selenium/selenium-2.48.0.tar.gz
 Source0  : https://pypi.python.org/packages/source/s/selenium/selenium-2.48.0.tar.gz
 Summary  : Python bindings for Selenium
