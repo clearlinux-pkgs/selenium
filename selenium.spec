@@ -4,7 +4,7 @@
 #
 Name     : selenium
 Version  : 2.53.1
-Release  : 23
+Release  : 24
 URL      : https://pypi.python.org/packages/source/s/selenium/selenium-2.53.1.tar.gz
 Source0  : https://pypi.python.org/packages/source/s/selenium/selenium-2.53.1.tar.gz
 Summary  : Python bindings for Selenium
