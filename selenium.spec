@@ -4,7 +4,7 @@
 #
 Name     : selenium
 Version  : 3.0.1
-Release  : 27
+Release  : 28
 URL      : http://pypi.debian.net/selenium/selenium-3.0.1.tar.gz
 Source0  : http://pypi.debian.net/selenium/selenium-3.0.1.tar.gz
 Summary  : Python bindings for Selenium
