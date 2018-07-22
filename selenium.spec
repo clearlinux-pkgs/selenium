@@ -4,7 +4,7 @@
 #
 Name     : selenium
 Version  : 3.13.0
-Release  : 40
+Release  : 41
 URL      : https://files.pythonhosted.org/packages/6d/4b/30b28589f2b6051b04d6f8014537749dc08fa787a5569cebb33e892d34d3/selenium-3.13.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/6d/4b/30b28589f2b6051b04d6f8014537749dc08fa787a5569cebb33e892d34d3/selenium-3.13.0.tar.gz
 Summary  : Python bindings for Selenium
