@@ -4,7 +4,7 @@
 #
 Name     : selenium
 Version  : 3.13.0
-Release  : 41
+Release  : 42
 URL      : https://files.pythonhosted.org/packages/6d/4b/30b28589f2b6051b04d6f8014537749dc08fa787a5569cebb33e892d34d3/selenium-3.13.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/6d/4b/30b28589f2b6051b04d6f8014537749dc08fa787a5569cebb33e892d34d3/selenium-3.13.0.tar.gz
 Summary  : Python bindings for Selenium
@@ -57,7 +57,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1532244446
+export SOURCE_DATE_EPOCH=1532272215
 python3 setup.py build -b py3
 
 %install
